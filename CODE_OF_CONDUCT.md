@@ -20,7 +20,7 @@ We are committed to making participation in this project a harassment-free and w
 
 ## Reporting
 
-If you experience or witness unacceptable behavior, please report it to [Contact Maintainer](mailto:contact51xneeraj@example.com). All reports are handled confidentially.
+If you experience or witness unacceptable behavior, please report it to [Contact Maintainer](mailto:contactrenuka.com). All reports are handled confidentially.
 
 ## Enforcement
 
